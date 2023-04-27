@@ -1,4 +1,4 @@
-# gc
+# novo
 Escola: Góes Calmon 
 Alunos: Nicole Ferreira, Raiane sacramento, Railane Jesus, Pâmela Cardoso e Sophia Menezes 
 Professor: João 
