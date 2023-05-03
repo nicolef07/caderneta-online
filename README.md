@@ -1,13 +1,13 @@
 # <h1 align="center"> Caderneta Online</h1> 
 ![WhatsApp Image 2023-04-27 at 18 40 25](https://user-images.githubusercontent.com/130568068/234999498-c2e7a4dc-baed-4238-9dcd-b09d873e27e0.jpeg)
 
-Indice
+# <h1 align="center">Indice</h1> 
 °Descrição do projeto 
 °Funcionalidades 
 °Usabilidade da solução 
 °Autoria do projeto e tecnologias utilizadas 
 
-Descrição do projeto:
+# <h1 align="center"> Descrição do projeto:</h1> 
 •Problema: a falta de conhecimento dos pais sobre o monitoramento de presença dos seus filhos.
 •Solução: Instalar câmeras de reconhecimento facial na entrada da escola que identificaria cada aluno e enviaria uma notificação para os pais/responsáveis do aluno sobre sua presença.
 
